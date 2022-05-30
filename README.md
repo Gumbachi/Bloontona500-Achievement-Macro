@@ -1,5 +1,5 @@
 # Bloontona500-Achievement-Macro
-A python keyboard/mouse macro to crank out the achievement without the tedium 
+A python keyboard/mouse macro to crank out the BTD6 achievement "Bloontona 500" without the tedium 
 
 ## Setup
 1. Have Python installed
