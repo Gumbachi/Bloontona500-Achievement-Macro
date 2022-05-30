@@ -18,13 +18,13 @@ You can set the variables manually to configure the macro for your system
 These variables can be found in [main.py](main.py)  
 The Macro needs to know 4 locations and the colors they correspond to:  
 RACE_MENU_BUTTON  
-![RACE BUTTON MENU](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/race_menu_button.jpg?raw=true)   
+![RACE BUTTON MENU](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/race_menu_button.png?raw=true)   
 RACE_BUTTON (found on the newspaper popup)  
-![RACE BUTTON](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/race_button.jpg?raw=true)
+![RACE BUTTON](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/race_button.png?raw=true)
 RACE_EVENT_POPUP (The blue area, not the button)  
-![RACE POPUP](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/race_event_popup.jpg?raw=true) 
+![RACE POPUP](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/race_event_popup.png?raw=true) 
 HOME_BUTTON (In the pause menu)  
-![HOME BUTTON](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/home_button.jpg?raw=true) 
+![HOME BUTTON](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/home_button.png?raw=true) 
 
 ## Result  
 ![Macro Running](https://github.com/Gumbachi/Bloontona500-Achievement-Macro/blob/media/Bloontonagif.gif?raw=true)
